@@ -1,0 +1,18 @@
+@import'bootstrap.css';
+
+body{
+    background-image: url('../img/background.png');
+    line-height: 2em;
+}
+
+.modal{
+    width: 400px;
+    margin-left: -200px;
+    z-index: 0;
+    display: block;
+}
+
+img.text-center{
+    margin: 0 auto!important;
+    float: none;
+}
